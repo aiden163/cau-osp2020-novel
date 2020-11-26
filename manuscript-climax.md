@@ -338,8 +338,7 @@
 <!-- 눈물을 닦는 톰-->
 <img width="1112" alt="cryingtom" src="https://user-images.githubusercontent.com/74413983/100344807-c0691480-3024-11eb-952f-a5303a734ead.png" width="50%" height="50%">
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74238817/100347638-088a3600-3029-11eb-8714-7185d5d5e401.PNG" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74238817/100347638-088a3600-3029-11eb-8714-7185d5d5e401.PNG" width="50%" height="50%">
 
 마치 뭐든지 해낼 수 있다는 듯이 톰은 눈물을 닦고 마음을 다잡았다.
 그리고 자신이 왔던 길을 다시 돌아가기 시작했다. 
@@ -943,7 +942,7 @@
 톰은 침을 흘리며 넋을 놓고 참치캔을 바라보며 말했다.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74238817/100348081-beee1b00-3029-11eb-8a71-0447bc00b354.PNG" width="50%" height="50%">
-   
+
 ```
 아아... 참치... 
 이건 못 참치...
